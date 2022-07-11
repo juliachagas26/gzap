@@ -1,4 +1,4 @@
-![alt text](https://github.com/juliachagas26/gzap/blob/main/gzap.png?raw=true)
+![alt text](https://github.com/juliachagas26/gzap/blob/main/assets/gzap.png?raw=true)
 
 ## Compartilhamento de notícias em formato de áudio mp3 para o WhatsApp
 
