@@ -673,7 +673,7 @@
          const file = await urlToFile(
            "https://ia601404.us.archive.org/7/items/noticia-v-4-2-1/noticia-v4-2%20%281%29.mp3"
          );
-         const files = [file, "teste"];
+         const files = [file];
      
          if (!navigator.canShare || !navigator.canShare({ files: files })) {
            alert("Unsupported share feature");
